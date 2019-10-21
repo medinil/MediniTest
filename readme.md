@@ -3,3 +3,5 @@ We will next stage this file and commit it locally. Then we will push it to git 
 
 ## Branches
 We will learn about branches
+
+Now I want to change certain things
